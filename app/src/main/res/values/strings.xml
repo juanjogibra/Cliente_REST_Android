@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cliente Basico</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="spinnerItems">
+        <item>narrativa</item>
+        <item>fantasia</item>
+        <item>intriga</item>
+        <item>terror</item>
+        <item>infantil</item>
+        <item>juvenil</item>
+        <item>autoayuda</item>
+        <item>poesia</item>
+        <item>teatro</item>
+        <item>ensayo</item>
+        <item>cocina</item>
+        <item>biografia</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/modificar_id" android:title="modificar" android:icon="@android:drawable/ic_menu_edit" app:showAsAction="always" />
+    <item android:id="@+id/borrar_id" android:title="borrar"   android:icon="@android:drawable/ic_menu_delete" app:showAsAction="always" />
+  <!--  <item android:id="@+id/email_id" android:title="enviar por correo"   android:icon="@mipmap/ic_launcher_foremail" app:showAsAction="always" />-->
+</menu>
+
